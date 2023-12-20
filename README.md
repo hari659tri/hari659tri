@@ -14,16 +14,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/14lOLIDnHQdrRvFOxExMLdAI82C9VEC3E/view?usp=drivesdk](https://drive.google.com/file/d/14lOLIDnHQdrRvFOxExMLdAI82C9VEC3E/view?usp=drivesdk)
 
 - ⚡ Fun fact *I am Funny*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hari12_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hari12_3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harikesh tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harikesh tripathi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20260043/harikesh-tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20260043/harikesh-tripathi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harikesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harikesh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/harikeso6du" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/harikeso6du" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari659tri&show_icons=true&locale=en&layout=compact" alt="hari659tri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hari659tri&show_icons=true&locale=en" alt="hari659tri" /></p>
