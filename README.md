@@ -11,7 +11,7 @@
 
 - 📫 How to reach me *harikeshtripathi367@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14lOLIDnHQdrRvFOxExMLdAI82C9VEC3E/view?usp=drivesdk](https://drive.google.com/file/d/14lOLIDnHQdrRvFOxExMLdAI82C9VEC3E/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14lOLIDnHQdrRvFOxExMLdAI82C9VEC3E/view?usp=drivesdk](https://drive.google.com/file/d/19ScrXf8X1gvcat5tSB9UCr8y6bsUU1LO/view?usp=drivesdk)
 
 - ⚡ Fun fact *I am Funny*
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari659tri&show_icons=true&locale=en&layout=compact" alt="hari659tri" /></p>
