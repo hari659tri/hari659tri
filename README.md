@@ -1,6 +1,6 @@
-<div > 
- <img align="left" src=">
-<img align="centre" src="im.jpg" alt="image"> 
+<div  position="relative" > 
+ <img src="sw.png" height="500px" width="600px">
+<img  src="im.jpg"  height="500px" margin="auto"> 
 
 
 </div>
@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="images2.jpeg" alt="Snake animation" />
 
 ###
