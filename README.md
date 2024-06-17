@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-<img src="images2.jpeg" alt="Snake animation" />
+<img src="i.jpg" alt="Snake animation" align="center" />
 
 ###
