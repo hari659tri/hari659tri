@@ -1,6 +1,5 @@
-<div  position="relative" > 
+<div align="center" > 
  <img src="sw.png" height="500px" width="600px">
-<img  src="im.jpg"  height="500px" margin="auto"> 
 
 
 </div>
