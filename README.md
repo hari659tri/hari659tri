@@ -1,3 +1,12 @@
+<div > 
+ <img align="left" src=">
+<img align="centre" src="im.jpg" alt="image"> 
+
+
+</div>
+
+
+
 <h2 align="left">Hi 👋! My name is Harikesh Tripathi and I'm a passonate software Engineer, from India</h2>
 
 ###
