@@ -1,7 +1,9 @@
 # Hi, I'm Harikesh Tripathi 👋
- 
-<h1>💫 About Me:</h1>  
-Welcome to my GitHub profile! I am a software engineer from India,<br>passionate about technology, open-source, and continuous learning.<br>I'm on a journey of discovery and growth in the world of technology.<br>As a full stack web developer, I'm passionate about crafting interactive<br>and responsive web applications using JavaScript, React, Redux, Node.js,<br>Express, HTML, CSS, and Git. I'm a strong advocate for collaboration and<br>believe in the magic of sharing knowledge. If you're ever looking to discuss<br>tech-related ideas or need assistance, feel free to reach out anytime.<br>Let's connect and explore the exciting world of technology together!
+ <p align="right"> <img src="https://komarev.com/ghpvc/?username=hari659tri&label=Profile%20views&color=0e75b6&style=flat" alt="hari659tri" /> </p>
+<h1  align="left">💫 About Me:</h1>  
+Hi, I'm, a tech enthusiast and B.Tech student. I'm on a journey of discovery and growth in the world of technology. As a full stack web developer ans ML Enthusiast,
+ <p align="right" align="top">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="300px" height="300px"></p>
 
 ## 📫 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://harikeshswenext-js-portfolio.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harikesh-tripathi-7841a0181) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/hari12_3?s=08) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@harikesh662?si=Tof07wJufMCeN9mD) 
