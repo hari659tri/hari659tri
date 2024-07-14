@@ -1,7 +1,7 @@
 # Hi, I'm Harikesh Tripathi 👋
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=hari659tri&label=Profile%20views&color=0e75b6&style=flat" alt="hari659tri" /> </p>
 <h1  align="left">💫 About Me:</h1> 
-<p align="center" > Hi, I'm, a tech enthusiast and B.Tech student. <br>I'm on a journey of discovery and growth in <br>the world of technology. As a full stack web<br> developer ans ML Enthusiast,</p>
+<p align="center" > I'm , a tech enthusiast and B.Tech student. I'm on a journey of discovery and growth in the world of technology. As a full stack web developer & ML Learner, I'm passionate about crafting interactive and responsive web applications using JavaScript, React, Redux, Node.js, Express, HTML, CSS, and Git</p>
 
  <p align="center" align="top">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="300px" height="300px"></p>
