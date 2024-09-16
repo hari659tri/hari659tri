@@ -10,7 +10,8 @@ Version Control using Git
 </h3>
 
  <p align="center" align="top">
-  <img src="[https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif]" width="300px" height="300px"></p>
+  <img src="![image](https://github.com/user-attachments/assets/4d2c7605-18ac-43d2-bb49-8d2d2d5a77b6)
+" width="300px" height="300px"></p>
 
 ## 📫 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://harikeshswenext-js-portfolio.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harikesh-tripathi-7841a0181) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/hari12_3?s=08) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@harikesh662?si=Tof07wJufMCeN9mD) 
