@@ -10,7 +10,7 @@ Version Control using Git
 </h3>
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/flat-design-devops-illustration_23-2149380377.jpg?w=740&t=st=1726471925~exp=1726472525~hmac=1673e5643f03e622ba792520ce3aa353bbf04f282377cd5ced3a26d3daf0846a" width="300px" height="300px">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300px" height="300px">
 </p>
 
 ## 📫 Connect with Me
