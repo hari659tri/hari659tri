@@ -1,7 +1,7 @@
-# Hi, I'm Harikesh Tripathi 👋
+# Hi there, I'm Harikesh Tripathi! 👋 
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=hari659tri&label=Profile%20views&color=0e75b6&style=flat" alt="hari659tri" /> </p>
 <h1  align="left">💫 About Me:</h1> 
-<p align="center" >I'm a passionate Computer Science and Engineering student in my 3rd year at Dr. Ambedkar Institute of Technology for Handicapped, Kanpur. My love for technology drives me to constantly explore and innovate. I'm proficient in Data Structures and Algorithms (DSA) and have hands-on experience with multiple programming languages like C++, C, Java, Python, and Python libraries such as Matplotlib, NumPy, and Pandas. I'm also skilled in web development (MERN stack) and am venturing into the world of Machine Learning.</p>
+<h3 align="center" >I'm a passionate Computer Science and Engineering student in my 3rd year at Dr. Ambedkar Institute of Technology for Handicapped, Kanpur. My love for technology drives me to constantly explore and innovate. I'm proficient in Data Structures and Algorithms (DSA) and have hands-on experience with multiple programming languages like C++, C, Java, Python, and Python libraries such as Matplotlib, NumPy, and Pandas. I'm also skilled in web development (MERN stack) and am venturing into the world of Machine Learning.</h3>
 
  <p align="center" align="top">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="300px" height="300px"></p>
