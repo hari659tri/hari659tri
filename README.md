@@ -7,11 +7,11 @@
 <p align="center"> 
 🎓 I'm a Final-Year B.Tech Student in <b>Computer Science and Engineering</b> at 
 <b>Dr. Ambedkar Institute of Technology for Handicapped, Kanpur</b>.  
-💡 Passionate about solving problems, building impactful software, and exploring cutting-edge technologies, I thrive at the intersection of <b>development, competitive programming, and leadership</b>.  
+💡 Passionate about solving problems, building impactful software, and exploring cutting-edge technologies, I thrive at the intersection of <b>development, competitive programming, and leadership</b>. 
+ 
+I have strong proficiency in <b>Data Structures & Algorithms (DSA)</b> with hands-on experience in  programming languages such as <b>C++, C, and Python</b>, along with popular Python libraries including <b>NumPy, Pandas, and Matplotlib</b>. I am also skilled in <b>web development</b> using the <b>MERN stack</b> (React, Node.js, Express, MongoDB) and currently expanding my expertise in the field of <b>Machine Learning</b>.
 
-I have strong proficiency in <b>Data Structures & Algorithms (DSA)</b> with hands-on experience in multiple programming languages such as <b>C++, C, Java, and Python</b>, along with popular Python libraries including <b>NumPy, Pandas, and Matplotlib</b>. I am also skilled in <b>web development</b> using the <b>MERN stack</b> (React, Node.js, Express, MongoDB) and currently expanding my expertise in the field of <b>Machine Learning</b>.  
-
-Throughout my journey, I have continually sharpened my core skills in <b>problem solving, frontend & full-stack development, object-oriented programming, operating systems</b>, and <b>version control with Git</b>, while staying curious and eager to learn new technologies.
+Throughout my journey, I have continually sharpened my core skills in <b>problem solving, frontend & full-stack development, object-oriented programming, operating systems,DBMS,CN</b>, and <b>version control with Git</b>, while staying curious and eager to learn new technologies.
 </p> 
 
 <p align="center">
