@@ -1,15 +1,18 @@
-# Hi there, I'm Harikesh Tripathi! 👋 
+# 👋 Hello, I’m Harikesh Tripathi 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
  <p align="right"> <img src="https://komarev.com/ghpvc/?username=hari659tri&label=Profile%20views&color=0e75b6&style=flat" alt="hari659tri" /> </p>
-<h1  align="left">💫 About Me:</h1> 
-<h3 align="center" >I'm a passionate Computer Science and Engineering student in my 3rd year at Dr. Ambedkar Institute of Technology for Handicapped, Kanpur. My love for technology drives me to constantly explore and innovate. I'm proficient in Data Structures and Algorithms (DSA) and have hands-on experience with multiple programming languages like C++, C, Java, Python, and Python libraries such as Matplotlib, NumPy, and Pandas. I'm also skilled in web development (MERN stack) and am venturing into the world of Machine Learning.I'm also expanding my knowledge into the realm of Machine Learning, while continually sharpening my core skills in:
-Data Structures & Algorithms (DSA) and Problem Solving
-Frontend & Full Stack Development with React, Tailwind CSS, and JavaScript
-Object-Oriented Programming (OOP)
-Operating Systems
-Version Control using Git
-</h3>
+<h1  align="left">💫 About Me:</h1>
+
+<p align="center"> 
+🎓 I'm a Final-Year B.Tech Student in <b>Computer Science and Engineering</b> at 
+<b>Dr. Ambedkar Institute of Technology for Handicapped, Kanpur</b>.  
+💡 Passionate about solving problems, building impactful software, and exploring cutting-edge technologies, I thrive at the intersection of <b>development, competitive programming, and leadership</b>.  
+
+I have strong proficiency in <b>Data Structures & Algorithms (DSA)</b> with hands-on experience in multiple programming languages such as <b>C++, C, Java, and Python</b>, along with popular Python libraries including <b>NumPy, Pandas, and Matplotlib</b>. I am also skilled in <b>web development</b> using the <b>MERN stack</b> (React, Node.js, Express, MongoDB) and currently expanding my expertise in the field of <b>Machine Learning</b>.  
+
+Throughout my journey, I have continually sharpened my core skills in <b>problem solving, frontend & full-stack development, object-oriented programming, operating systems</b>, and <b>version control with Git</b>, while staying curious and eager to learn new technologies.
+</p> 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400px" height="250px">
