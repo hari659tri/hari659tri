@@ -11,6 +11,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400px" height="250px">
 </p>
 
+<img src="https://leetcard.jacoblin.cool/hari686tri?theme=dark&font=Patrick%20Hand&ext=contest" aligin="center">
+
 ## 📫 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harikesh9722) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harikesh-tripathi-7841a0181) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/hari12_3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@harikesh662) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harikesht845@gmail.com) 
 
